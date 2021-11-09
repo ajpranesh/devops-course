@@ -1,1 +1,1 @@
-hello from 2.txt - modified
+hello from 2.txt
